@@ -1,6 +1,8 @@
-# githubstats
+# GitHub Stats
 
-Get your github stats
+Get your GitHub Stats in a jiffy!
+
+Try out the app here -> https://githubstats.iamyajat.co
 
 ## Getting Started
 
